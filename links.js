@@ -653,7 +653,7 @@ $( "#end1" ).dialog({
 
 $( "#theEnd" ).dialog({
 	autoOpen: false,
-	width: 900,
+	width: 300,
 	height: 700,
 	buttons: [
 		{
