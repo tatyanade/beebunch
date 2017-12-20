@@ -5,26 +5,9 @@ $( "#accordion" ).accordion();
 
 
 
-
-
-
-
-
-
 $(document).ready(function(){
 	$("hiddenIcon").hide();
   });
-
-
-
-
-
-
-
-
-
-
-
 
 
 var availableTags = [
@@ -653,8 +636,8 @@ $( "#end1" ).dialog({
 
 $( "#theEnd" ).dialog({
 	autoOpen: false,
-	width: 300,
-	height: 700,
+	width: 299,
+	height: 650,
 	buttons: [
 		{
 		text: "Spread the Truth",
